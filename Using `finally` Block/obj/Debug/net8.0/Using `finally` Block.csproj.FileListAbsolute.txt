@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\bin\Debug\net8.0\Using `finally` Block.exe
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\bin\Debug\net8.0\Using `finally` Block.deps.json
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\bin\Debug\net8.0\Using `finally` Block.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\bin\Debug\net8.0\Using `finally` Block.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\bin\Debug\net8.0\Using `finally` Block.pdb
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\obj\Debug\net8.0\Using `finally` Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\obj\Debug\net8.0\Using `finally` Block.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\obj\Debug\net8.0\Using `finally` Block.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\obj\Debug\net8.0\Using `finally` Block.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\obj\Debug\net8.0\Using `finally` Block.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\obj\Debug\net8.0\refint\Using `finally` Block.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\obj\Debug\net8.0\Using `finally` Block.pdb
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\obj\Debug\net8.0\Using `finally` Block.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Using `finally` Block\obj\Debug\net8.0\ref\Using `finally` Block.dll
