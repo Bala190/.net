@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\bin\Debug\net8.0\Throwing Exceptions.exe
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\bin\Debug\net8.0\Throwing Exceptions.deps.json
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\bin\Debug\net8.0\Throwing Exceptions.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\bin\Debug\net8.0\Throwing Exceptions.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\bin\Debug\net8.0\Throwing Exceptions.pdb
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\obj\Debug\net8.0\Throwing Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\obj\Debug\net8.0\Throwing Exceptions.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\obj\Debug\net8.0\Throwing Exceptions.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\obj\Debug\net8.0\Throwing Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\obj\Debug\net8.0\Throwing Exceptions.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\obj\Debug\net8.0\refint\Throwing Exceptions.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\obj\Debug\net8.0\Throwing Exceptions.pdb
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\obj\Debug\net8.0\Throwing Exceptions.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Throwing Exceptions\obj\Debug\net8.0\ref\Throwing Exceptions.dll

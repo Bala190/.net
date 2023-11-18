@@ -1,0 +1,4 @@
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Catching General Exceptions\obj\Debug\net8.0\Catching General Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Catching General Exceptions\obj\Debug\net8.0\Catching General Exceptions.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Catching General Exceptions\obj\Debug\net8.0\Catching General Exceptions.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Catching General Exceptions\obj\Debug\net8.0\Catching General Exceptions.csproj.CoreCompileInputs.cache

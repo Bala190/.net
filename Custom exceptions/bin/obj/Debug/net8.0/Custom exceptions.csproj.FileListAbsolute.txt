@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\bin\Debug\net8.0\Custom exceptions.exe
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\bin\Debug\net8.0\Custom exceptions.deps.json
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\bin\Debug\net8.0\Custom exceptions.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\bin\Debug\net8.0\Custom exceptions.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\bin\Debug\net8.0\Custom exceptions.pdb
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\obj\Debug\net8.0\Custom exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\obj\Debug\net8.0\Custom exceptions.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\obj\Debug\net8.0\Custom exceptions.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\obj\Debug\net8.0\Custom exceptions.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\obj\Debug\net8.0\Custom exceptions.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\obj\Debug\net8.0\refint\Custom exceptions.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\obj\Debug\net8.0\Custom exceptions.pdb
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\obj\Debug\net8.0\Custom exceptions.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Custom exceptions\obj\Debug\net8.0\ref\Custom exceptions.dll

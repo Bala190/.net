@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\bin\Debug\net8.0\Handling exceptions.exe
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\bin\Debug\net8.0\Handling exceptions.deps.json
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\bin\Debug\net8.0\Handling exceptions.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\bin\Debug\net8.0\Handling exceptions.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\bin\Debug\net8.0\Handling exceptions.pdb
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\obj\Debug\net8.0\Handling exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\obj\Debug\net8.0\Handling exceptions.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\obj\Debug\net8.0\Handling exceptions.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\obj\Debug\net8.0\Handling exceptions.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\obj\Debug\net8.0\Handling exceptions.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\obj\Debug\net8.0\refint\Handling exceptions.dll
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\obj\Debug\net8.0\Handling exceptions.pdb
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\obj\Debug\net8.0\Handling exceptions.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\ConsoleApp1\Handling exceptions\obj\Debug\net8.0\ref\Handling exceptions.dll
